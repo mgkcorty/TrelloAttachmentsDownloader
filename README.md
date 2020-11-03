@@ -5,7 +5,7 @@
 1) Open trello card;
 2) Click on "Share" button;
 3) Select "Export JSON" and save file on your computer;
-4) Open command line or terminal and call:
+4) Open Windows Command Line or Mac OS X Terminal and call:
 
 ``` dotnet TrelloAttachmentsDownloader.dll exported_json_file.json ```
 
